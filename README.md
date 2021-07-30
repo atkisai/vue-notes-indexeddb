@@ -1,4 +1,6 @@
-# vue-notes
+# vue-notes-indexeddb
+
+atkisai.github.io/vue-notes-indexeddb
 
 > A Vue.js project
 
